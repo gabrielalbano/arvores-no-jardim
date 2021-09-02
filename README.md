@@ -1,6 +1,6 @@
 # Desafio Java: Número de árvores num jardim
 
-Exercício em Java para o Academy do Elo7, no qual temos um jardim onde podem ser plantadas árvores também removidas, além de manter uma contagem atualizada do número de árvores presentes no jardim.
+Exercício em Java para o Academy do Elo7, no qual temos um jardim onde podem ser plantadas árvores e também removidas, além de manter uma contagem atualizada do número de árvores presentes no jardim.
 
 ## Como usar:
 
@@ -21,8 +21,9 @@ Escolha uma das opções:
 
 Escolhendo a opção 1 ou 2, o usuário pode inserir ou remover uma árvore informando as coordenadas do local desejado, também no formato `X Y`. Não é possível plantar árvores em locais já ocupados ou fora dos limites do jardim, ou remover árvores de locais vazios.
 ```
+>>> 2
 Digite as coordenadas do local: 
-2 2
+>>> 2 2
 ```
 
 Escolhendo a opção 3, o programa fornece uma visualização gráfica do jardim, mostrando onde há árvores plantadas.
